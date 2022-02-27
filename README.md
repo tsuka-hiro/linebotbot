@@ -1,2 +1,0 @@
-# linebotbot
-ライブラリを用いたlinebot
